@@ -1,0 +1,19 @@
+/* Custom CSS for your app */
+
+/* Add some spacing and background color to the text area */
+#inputtext_ {
+    margin-bottom: 20px;
+    background-color: #f8f8f8;
+}
+
+/* Center the "Text Summarization" button */
+button[type="submit"] {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Add some padding and background color to the summary text */
+.summary-text {
+    padding: 10px;
+    background-color: #f8f8f8;
+}
